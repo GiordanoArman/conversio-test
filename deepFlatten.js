@@ -1,3 +1,5 @@
+// full project at https://github.com/GiordanoArman/conversio-test
+
 function deepFlatten(array) {
   let elems = [];
   array.forEach((elem) => {
